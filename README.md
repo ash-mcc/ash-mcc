@@ -1,1 +1,1 @@
-![](./visual-summary.svg)
+<img src="visualsummary.svg">
