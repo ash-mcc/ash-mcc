@@ -1,1 +1,1 @@
-<img src="visualsummary.svg">
+<img src="visualsummary.svg?sanitize=true">
