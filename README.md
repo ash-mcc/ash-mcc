@@ -1,1 +1,1 @@
-![](img/visual-summary.svg)
+![](./visual-summary.svg)
